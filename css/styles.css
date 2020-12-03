@@ -1,3 +1,27 @@
+body{
+    flex: 1px;
+}
+.nav {
+      background-color: DarkSalmon;
+    overflow: hidden;
+  }
+  .nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .nav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
 .intro {
     border-left: 6px solid #9d0191;
     border-right: 6px solid #9d0191;
@@ -15,6 +39,7 @@
       width: 24%;
       background-color: #a07676;
       text-align: center;
+      flex: 1px;
   }
 
   img{
@@ -67,5 +92,11 @@
   }
   .fa-twitter {
     background: #55ACEE;
+    color: white;
+  }
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
     color: white;
   }
