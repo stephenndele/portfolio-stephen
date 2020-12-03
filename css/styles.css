@@ -1,0 +1,21 @@
+.intro {
+    border-left: 6px solid #9d0191;
+    border-right: 6px solid #9d0191;
+    border-top: 6px solid #9d0191;
+    border-bottom: 6px solid #9d0191;
+    float: right;
+    color: white;
+    width: 75%;
+    background-color: #120078;
+    
+    font-size: 25px;
+  }
+  img{
+      float:left;
+      width: 24%;
+      border-radius: 50%;
+      height: 10%;
+  }
+  h2 {
+    text-decoration: underline;
+  }
