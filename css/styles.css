@@ -40,13 +40,14 @@ body{
       background-color: #a07676;
       text-align: center;
       flex: 1px;
+      height: 1337px;
   }
 
   img{
       float:left;
       width: 100%;
       border-radius: 50%;
-      height: 10%;
+      height: 20%;
   }
   h2 {
     text-decoration: underline;
