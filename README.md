@@ -1,5 +1,5 @@
 # Stephen Ndele portfoolio
-#### This a simple website without my personl profile
+#### This a simple website with my personl profile
 #### By Stephen Ndele
 ## Description
 This is a simple website that describes me and my achievements in the world of tech. The website is meant to give a brief infor to the interested parties like, employers, contributors and and friends. I did the project on my first days to programming lessons just to impleent few skills that I learned at the start of coding classes.
