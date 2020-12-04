@@ -1,4 +1,4 @@
-# Stephen Ndele portfoolio
+# Stephen Ndele portfolio
 #### This a simple website with my personl profile
 #### By Stephen Ndele
 ## Description
