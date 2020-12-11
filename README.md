@@ -25,6 +25,10 @@ Being one of the kickstart projects in my programming path, I started with the s
 2. CSS
 Also used Visual studio as my editor.
 
+### Live link to the project
+
+[Stephen portfolio](https://stephenndele.github.io/portfolio-stephen/)
+
 ### License
 
 Copyright (c) 2020 Stephen Ndele.
